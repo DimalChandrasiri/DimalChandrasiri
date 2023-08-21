@@ -19,8 +19,7 @@
 <a href="https://stackoverflow.com/users/1488814/imesh-chandrasiri" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 ### Glad to see you checkout my profile... 😍
 
@@ -104,3 +103,4 @@ I'm a people person and love to exchange the experiences I gained throughout my 
 ---
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Image attribution <a href="https://www.flaticon.com/free-stickers/computer" title="computer stickers">Computer stickers created by Stickers - Flaticon</a></div>
